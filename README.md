@@ -1,4 +1,4 @@
-# 🖥️ Teste de Infraestrutura Computacional: Olá, GitHub!
+# 🖥️ Tarefa de Infraestrutura Computacional:
 
 Este repositório foi criado para fins didáticos na disciplina de **Infraestrutura Computacional**. O objetivo principal é testar o fluxo de trabalho básico do GitHub (criação de repositório, commits, push).
 
