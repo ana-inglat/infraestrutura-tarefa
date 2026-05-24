@@ -1,6 +1,6 @@
 # 🖥️ Teste de Infraestrutura Computacional: Olá, GitHub!
 
-Este repositório foi criado exclusivamente para fins didáticos na disciplina de **Infraestrutura Computacional**. O objetivo principal é testar o fluxo de trabalho básico do GitHub (criação de repositório, commits, push).
+Este repositório foi criado para fins didáticos na disciplina de **Infraestrutura Computacional**. O objetivo principal é testar o fluxo de trabalho básico do GitHub (criação de repositório, commits, push).
 
 ## 🍰 O Caso de Teste: Uma Receita de Bolo
 
