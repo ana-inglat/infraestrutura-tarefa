@@ -13,4 +13,4 @@ Para validar que o repositório está recebendo atualizações de texto corretam
 - [x] Dar push para o GitHub.
 
 ---
-*Status do Teste: Sucesso 🚀
+*Status do Teste: Sucesso 🚀 

@@ -1,4 +1,4 @@
-🎂 Bolo de Chocolate Fofinho
+🎂 Bolo de Chocolate 
 🛒 Ingredientes
 Para a Massa:
 
