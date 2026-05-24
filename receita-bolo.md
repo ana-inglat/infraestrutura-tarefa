@@ -38,6 +38,3 @@ Esta é a receita clássica de bolo de chocolate utilizada como massa de dados p
 2. Leve ao fogo médio, mexendo sempre, até começar a desgrudar do fundo da panela (ponto de brigadeiro mole).
 3. Desligue o fogo e misture o creme de leite para dar brilho e leveza.
 4. Despeje o brigadeiro ainda morno sobre o bolo já desenformado.
-
----
-*Nota: Se o pipeline ficou verde e este ficheiro renderizou corretamente, o deploy do bolo foi um sucesso!* 🚀
